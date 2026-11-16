@@ -28,7 +28,8 @@
   "doc_shorts": {
     "frame": { "width": 1080, "height": 1920, "fps": 30 },
     "safe_area": { "top": 220, "bottom": 420, "left": 60, "right": 160 },
-    "language": "simplified fusha", "numerals": "arabic-indic",
+    "language": "white saudi dialect", "numerals": "arabic-indic",
+    "voice": { "provider": "magnific", "voice_id": null, "model": null },
     "captions": { "chars_per_line": 32, "max_lines": 2, "render": "remotion" },
     "mix": { "voice_lufs": -14, "true_peak": -1.0, "music_under_voice_lufs": -26, "music_gap_lufs": -18 },
     "beat_every_seconds": [2, 4]
