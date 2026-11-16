@@ -20,6 +20,7 @@ These are **skills only**: the method, the numbers, the rules and the traps, lea
 | `motion-overlays` | a Remotion brand kit timed to your words, face- and caption-safe |
 | `figma-roundtrip` | design the kit in Figma, keep code and boards in sync |
 | `youtube-export` | Deliver settings for great quality without 25 GB files |
+| `arabic-documentary-shorts` | vertical Arabic documentary and motion explainers: research, script, narration (recorded or AI), RTL graphics, quiet mix |
 
 Plus `templates/config.example.json` (starting values) and `LEARNINGS.md`, the story of what went wrong and how it was fixed.
 
